@@ -272,17 +272,3 @@ tr {
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
     }
-
-    .segundobotao {
-      background: linear-gradient(to top, #4B0082 0%, #7B68EE 100%); 
-      border: none;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      margin: 4px 2px;
-      cursor: pointer;
-      border-radius: 10px;
-    }
